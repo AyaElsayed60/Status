@@ -1,0 +1,17 @@
+#languagewrapper{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+#Tiltleheader{
+font-size: 55px;
+color: white;
+}
+
+#labelselection{
+color: darkgray;
+font-size: 20px;
+
+}
